@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "76a1eefc571c05c67e081c3e4c8fe62f"
+build_time: [539094315, 463557000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": [539094063, 0]

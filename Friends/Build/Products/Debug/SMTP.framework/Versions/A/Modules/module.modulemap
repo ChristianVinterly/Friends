@@ -1,0 +1,3 @@
+framework module SMTP {
+    header "SMTP-Swift.h"
+}

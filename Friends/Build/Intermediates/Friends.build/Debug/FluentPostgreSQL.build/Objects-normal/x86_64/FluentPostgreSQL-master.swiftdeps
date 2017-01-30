@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cb93eed6fae014b4c8619f683f62e939"
+build_time: [539096121, 705495000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/FluentPostgreSQL-1.0.4/Sources/FluentPostgreSQL/PostgreSQLDriver.swift": [539096042, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/FluentPostgreSQL-1.0.4/Sources/FluentPostgreSQL/PostgreSQLSerializer.swift": [539096042, 0]

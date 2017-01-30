@@ -1,0 +1,3 @@
+framework module WebSockets {
+    header "WebSockets-Swift.h"
+}

@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "13db5456f70192d2c767309eb986ffad"
+build_time: [539094333, 746655000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Config+Arguments.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Config+Directory.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Config.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/KeyAccessible+Merge.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/KeyAccessible.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Node+Merge.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Source.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Env/Env.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Env/Node+Env.swift": [539094059, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Vapor-1.3.11/Sources/Settings/Env/String+Env.swift": [539094059, 0]

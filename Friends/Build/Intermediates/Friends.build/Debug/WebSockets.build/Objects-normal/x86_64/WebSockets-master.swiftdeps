@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "735ffa1754287b3cae6bddf537d9d415"
+build_time: [539094325, 8426000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Request+WebSockets.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/WebSocketFormatErrors.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Client/WebSocket+Client.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Communication/WebSocket+Send.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Connection/Headers+WebSockets.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Connection/WebSockets+Hash.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Model/Fragmentation.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Model/Frame.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Model/WebSocket+Error.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Model/WebSocket.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Serialization/FrameDeserializer.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Serialization/FrameSerializer.swift": [539094082, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Engine-1.3.6/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [539094082, 0]

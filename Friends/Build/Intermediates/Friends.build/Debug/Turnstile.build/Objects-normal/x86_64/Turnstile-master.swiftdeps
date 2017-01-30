@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cf6bb437a5b132ed5f4c65b09a6cc7d1"
+build_time: [539094294, 127210000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [539094098, 0]

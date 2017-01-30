@@ -1,0 +1,3 @@
+framework module HTTPRouting {
+    header "HTTPRouting-Swift.h"
+}

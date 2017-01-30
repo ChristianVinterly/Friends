@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "588dcae101a786163edc70107b2457e1"
+build_time: [539094296, 518193000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/AuthorizationCode.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Facebook.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Google.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Error.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Token.swift": [539094099, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/URLSession+Turnstile.swift": [539094098, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/WebMemoryRealm.swift": [539094099, 0]

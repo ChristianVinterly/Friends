@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f18795e1d19424d510cb9f5801b13f95"
+build_time: [539104535, 467281000]
+inputs:
+  "/Users/christianlysne/Development/Friends/Friends/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [539094080, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [539094080, 0]

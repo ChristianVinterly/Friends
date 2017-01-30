@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "31680d6ff704b2593235ba95947badd4"
+build_time: [539094330, 571432000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [539094102, 0]

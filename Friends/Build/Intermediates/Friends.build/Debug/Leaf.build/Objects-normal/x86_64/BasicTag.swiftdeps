@@ -1,0 +1,54 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BasicTag"
+provides-nominal:
+- "P4Leaf8BasicTag"
+provides-member:
+- ["P4Leaf8BasicTag", ""]
+- ["P4Leaf8BasicTag", "run"]
+provides-dynamic-lookup:
+depends-top-level:
+- "TagTemplate"
+- "Stem"
+- "Argument"
+- "Context"
+- "Tag"
+- "Node"
+- "BasicTag"
+depends-member:
+- ["Sa", "deinit"]
+- ["P4Leaf8BasicTag", "Argument"]
+- ["P4Leaf8BasicTag", "Context"]
+- ["P4Leaf8BasicTag", "Node"]
+- ["P4Leaf8BasicTag", "Stem"]
+- ["P4Leaf8BasicTag", "TagTemplate"]
+- ["P4Leaf8BasicTag", "run"]
+- ["Sq", "deinit"]
+- ["P4Leaf3Tag", "Argument"]
+- ["P4Leaf3Tag", "Context"]
+- ["P4Leaf3Tag", "Node"]
+- ["P4Leaf3Tag", "Stem"]
+- ["P4Leaf3Tag", "TagTemplate"]
+- ["P4Leaf3Tag", "run"]
+- ["P4Leaf3Tag", ""]
+depends-nominal:
+- "Sa"
+- "P4Leaf8BasicTag"
+- "Sq"
+- "P4Leaf3Tag"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Polymorphic.framework/Modules/Polymorphic.swiftmodule/x86_64.swiftmodule"
+interface-hash: "884387acecb739ff3a9913740b8890f6"

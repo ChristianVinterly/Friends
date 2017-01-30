@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "36a6653257b730ea6f6c28bb2fe7a036"
+build_time: [539096061, 850422000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Connection.swift": [539096045, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Database.swift": [539096045, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Node+Oid.swift": [539096045, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/PostgreSQL+Node.swift": [539096044, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Result.swift": [539096045, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Status.swift": [539096044, 0]

@@ -1,0 +1,3 @@
+framework module Routing {
+    header "Routing-Swift.h"
+}

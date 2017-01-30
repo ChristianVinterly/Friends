@@ -1,0 +1,272 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewRenderer"
+provides-nominal:
+- "P5Vapor12ViewRenderer"
+provides-member:
+- ["P5Vapor12ViewRenderer", ""]
+- ["P5Vapor12ViewRenderer", "make"]
+- ["P5Vapor12ViewRenderer", "make"]
+- ["P5Vapor12ViewRenderer", "make"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Node"
+- "ViewRenderer"
+- "NodeRepresentable"
+- "String"
+- "View"
+depends-member:
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "Key"]
+- !private ["Ps7CVarArg", "Value"]
+- !private ["Ps7CVarArg", "makeNode"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "Key"]
+- !private ["Ps10Collection", "Value"]
+- !private ["Ps10Collection", "makeNode"]
+- !private ["P4Node7Context", "Iterator"]
+- !private ["P4Node7Context", "Key"]
+- !private ["P4Node7Context", "Value"]
+- !private ["P4Node7Context", "makeNode"]
+- !private ["P4Node7Context", "null"]
+- !private ["P5Vapor9Countable", "Iterator"]
+- !private ["P5Vapor9Countable", "Key"]
+- !private ["P5Vapor9Countable", "Value"]
+- !private ["P5Vapor9Countable", "makeNode"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "makeNode"]
+- !private ["Ps17CustomReflectable", "Element"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "makeNode"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "makeNode"]
+- !private ["Vs10Dictionary", "Iterator"]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Vs10Dictionary", "makeNode"]
+- !private ["Vs18DictionaryIterator", "Element"]
+- !private ["Ps9Equatable", "null"]
+- !private ["Ps25ExpressibleByArrayLiteral", "null"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "null"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Iterator"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "makeNode"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "null"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "null"]
+- !private ["Ps25ExpressibleByFloatLiteral", "null"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "null"]
+- !private ["Ps23ExpressibleByNilLiteral", "null"]
+- !private ["Ps26ExpressibleByStringLiteral", "null"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "null"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps9Indexable", "makeNode"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "Key"]
+- !private ["Ps13IndexableBase", "Value"]
+- !private ["Ps13IndexableBase", "makeNode"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["P4HTTP13KeyAccessible", "Iterator"]
+- !private ["P4HTTP13KeyAccessible", "Key"]
+- !private ["P4HTTP13KeyAccessible", "Value"]
+- !private ["P4HTTP13KeyAccessible", "makeNode"]
+- !private ["P4Node13KeyAccessible", "Iterator"]
+- !private ["P4Node13KeyAccessible", "Key"]
+- !private ["P4Node13KeyAccessible", "Value"]
+- !private ["P4Node13KeyAccessible", "makeNode"]
+- !private ["P8Settings13KeyAccessible", "Iterator"]
+- !private ["P8Settings13KeyAccessible", "Key"]
+- !private ["P8Settings13KeyAccessible", "Value"]
+- !private ["P8Settings13KeyAccessible", "makeNode"]
+- ["O4Node4Node", "deinit"]
+- !private ["O4Node4Node", "null"]
+- !private ["P4Node10NodeBacked", "null"]
+- !private ["P4Node15NodeConvertible", "null"]
+- !private ["P4Node17NodeInitializable", "null"]
+- ["P4Node17NodeRepresentable", "deinit"]
+- !private ["P4Node17NodeRepresentable", "makeNode"]
+- !private ["P4Node17NodeRepresentable", "null"]
+- !private ["P13PathIndexable13PathIndexable", "null"]
+- !private ["P11Polymorphic11Polymorphic", "null"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "Key"]
+- !private ["Ps8Sequence", "Value"]
+- !private ["Ps8Sequence", "makeNode"]
+- ["SS", "deinit"]
+- !private ["P5Vapor11Validatable", "Iterator"]
+- !private ["P5Vapor11Validatable", "Key"]
+- !private ["P5Vapor11Validatable", "Value"]
+- !private ["P5Vapor11Validatable", "makeNode"]
+- ["C5Vapor4View", "deinit"]
+- ["P5Vapor12ViewRenderer", "Node"]
+- ["P5Vapor12ViewRenderer", "NodeRepresentable"]
+- ["P5Vapor12ViewRenderer", "String"]
+- ["P5Vapor12ViewRenderer", "View"]
+- !private ["P5Vapor12ViewRenderer", "deinit"]
+- ["P5Vapor12ViewRenderer", "init"]
+- ["P5Vapor12ViewRenderer", "make"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "makeNode"]
+depends-nominal:
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "P4Node7Context"
+- !private "P5Vapor9Countable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- !private "Vs18DictionaryIterator"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Ps16IteratorProtocol"
+- !private "P4HTTP13KeyAccessible"
+- !private "P4Node13KeyAccessible"
+- !private "P8Settings13KeyAccessible"
+- "O4Node4Node"
+- !private "P4Node10NodeBacked"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- "P4Node17NodeRepresentable"
+- !private "P13PathIndexable13PathIndexable"
+- !private "P11Polymorphic11Polymorphic"
+- !private "Ps8Sequence"
+- "SS"
+- !private "P5Vapor11Validatable"
+- "C5Vapor4View"
+- "P5Vapor12ViewRenderer"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Cipher.framework/Modules/Cipher.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/whrlpool.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui_compat.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/txt_db.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509v3.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ts.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ripemd.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc4.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc2.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rand.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/poly1305.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs12.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/safestack.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslfeatures.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslconf.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ossl_typ.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ocsp.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/modes.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md5.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md4.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/krb5_asn.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/idea.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/gost.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/lhash.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/err.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rsa.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/engine.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl3.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/srtp.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl23.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls1.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/evp.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl2.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem2.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs7.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509_vfy.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/sha.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ec.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdh.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdsa.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/stack.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/hmac.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dtls1.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dso.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dsa.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dh.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/des.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf_api.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/crypto.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/comp.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cms.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/obj_mac.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/objects.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cmac.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/chacha.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cast.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/camellia.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/buffer.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/blowfish.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1t.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1_mac.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bio.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bn.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslv.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/aes.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/CLibreSSL.framework/Modules/module.modulemap"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Essentials.framework/Modules/Essentials.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Polymorphic.framework/Modules/Polymorphic.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Settings.framework/Modules/Settings.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/JSON.framework/Modules/JSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Jay.framework/Modules/Jay.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/HTTP.framework/Modules/HTTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Transport.framework/Modules/Transport.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/SocksCore.framework/Modules/SocksCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/TLS.framework/Modules/TLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/URI.framework/Modules/URI.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Fluent.framework/Modules/Fluent.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Cache.framework/Modules/Cache.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Sessions.framework/Modules/Sessions.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Cookies.framework/Modules/Cookies.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/HMAC.framework/Modules/HMAC.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/HTTPRouting.framework/Modules/HTTPRouting.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Routing.framework/Modules/Routing.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/TypeSafeRouting.framework/Modules/TypeSafeRouting.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/WebSockets.framework/Modules/WebSockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Hash.framework/Modules/Hash.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Socks.framework/Modules/Socks.swiftmodule/x86_64.swiftmodule"
+- "/Users/christianlysne/Development/FriendsAPI/Friends/Build/Products/Debug/Leaf.framework/Modules/Leaf.swiftmodule/x86_64.swiftmodule"
+interface-hash: "181ae28b45dcb239a94926edb4e969ba"

@@ -1,0 +1,3 @@
+framework module PostgreSQL {
+    header "PostgreSQL-Swift.h"
+}

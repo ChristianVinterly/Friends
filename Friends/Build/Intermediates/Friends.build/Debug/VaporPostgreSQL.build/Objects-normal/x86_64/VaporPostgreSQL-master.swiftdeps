@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2891c8d571dd882ed27af824777e4b93"
+build_time: [539096124, 279539000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/VaporPostgreSQL-1.1.1/Sources/VaporPostgreSQL/Provider.swift": [539096041, 0]

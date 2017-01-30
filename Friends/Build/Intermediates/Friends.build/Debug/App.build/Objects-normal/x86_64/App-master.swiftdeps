@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f2b0f46b3fd1c171173359fb12dd167a"
+build_time: [539100789, 611787000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Sources/App/main.swift": [539100773, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Sources/App/Models/Friend.swift": [539095453, 0]

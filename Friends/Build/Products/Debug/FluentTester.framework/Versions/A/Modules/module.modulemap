@@ -1,0 +1,3 @@
+framework module FluentTester {
+    header "FluentTester-Swift.h"
+}

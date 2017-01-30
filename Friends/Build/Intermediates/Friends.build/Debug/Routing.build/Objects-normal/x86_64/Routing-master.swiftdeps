@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ccff77c5b43d43956bb9c9a8c033030d"
+build_time: [539094326, 622163000]
+inputs:
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/Branch.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/ParametersContainer.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder+RouteCollection.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder+RouteGroup.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteCollection.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteGroup+RouteBuilder.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteGroup.swift": [539094102, 0]
+  "/Users/christianlysne/Development/FriendsAPI/Friends/Packages/Routing-1.0.1/Sources/Routing/Router.swift": [539094102, 0]

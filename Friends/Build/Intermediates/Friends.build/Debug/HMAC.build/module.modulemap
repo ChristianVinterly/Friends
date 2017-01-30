@@ -1,0 +1,3 @@
+framework module HMAC {
+    header "HMAC-Swift.h"
+}

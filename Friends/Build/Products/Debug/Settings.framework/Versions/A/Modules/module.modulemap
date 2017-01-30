@@ -1,0 +1,3 @@
+framework module Settings {
+    header "Settings-Swift.h"
+}

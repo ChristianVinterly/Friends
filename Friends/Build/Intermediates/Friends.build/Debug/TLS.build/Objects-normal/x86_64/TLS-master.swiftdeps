@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e2c413d867a4f942bbc5e0dc3c23f2e3"
+build_time: [539104554, 143099000]
+inputs:
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Config.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Context.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Error.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": !dirty [539094087, 0]
+  "/Users/christianlysne/Development/Friends/Friends/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": !dirty [539094087, 0]

@@ -1,0 +1,3 @@
+framework module HTTP {
+    header "HTTP-Swift.h"
+}
