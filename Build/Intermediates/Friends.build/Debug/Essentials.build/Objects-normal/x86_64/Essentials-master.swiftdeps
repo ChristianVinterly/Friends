@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "08269e4388795399a49ba4aa189cb8e9"
+build_time: [539107278, 417598000]
+inputs:
+  "/Users/christianlysne/Development/Friends/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [539094063, 0]
+  "/Users/christianlysne/Development/Friends/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [539094063, 0]

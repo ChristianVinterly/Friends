@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0ecc79b804bde32c155fd123f2d3e384"
+build_time: [539107252, 325255000]
+inputs:
+  "/Users/christianlysne/Development/Friends/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": [539094079, 0]
+  "/Users/christianlysne/Development/Friends/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": [539094079, 0]

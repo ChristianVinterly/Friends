@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "bcebeba44065a7996b1d96a3a5656cb5"
+build_time: [539107298, 473914000]
+inputs:
+  "/Users/christianlysne/Development/Friends/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": !dirty [539094063, 0]
+  "/Users/christianlysne/Development/Friends/Packages/Crypto-1.0.1/Sources/Random/Random.swift": !dirty [539094063, 0]
+  "/Users/christianlysne/Development/Friends/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": !dirty [539094063, 0]
