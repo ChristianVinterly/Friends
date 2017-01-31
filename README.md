@@ -2,10 +2,10 @@
 
 This project uses Swift, XCode, Vapor, Vapor Toolbox, Postgres and Heroku.
 
-GET: https://friends-api-123.herokuapp.com/friends
+GET: https://friends-api-123.herokuapp.com/friends  
 GET: https://friends-api-123.herokuapp.com/friends/id
 
-POST: https://friends-api-123.herokuapp.com/friend
+POST: https://friends-api-123.herokuapp.com/friend  
 Example of expected body:
 ```json
 {
